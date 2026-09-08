@@ -1,4 +1,5 @@
 # Developer Profile
-- **Name:** Josué Saul
+- **Name:** Josh Castillo
 - **Hobby:** Drumming
+- **Preferred Development Tool:** IntelliJ IDEA
 
