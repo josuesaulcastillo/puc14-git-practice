@@ -1,7 +1,7 @@
 # Project Idea
 
 ## Project Name
-TBD
+Student Task Manager
 
 ## Problem to Solve
 TBD
