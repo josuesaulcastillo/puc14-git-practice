@@ -1,5 +1,4 @@
 # Developer Profile
-- **Name:** Josh Castillo
+- **Developer:** Josh Castillo
 - **Hobby:** Drumming
 - **Preferred Development Tool:** IntelliJ IDEA
-
