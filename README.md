@@ -1,4 +1,4 @@
 # Developer Profile
-- **Developer:** Josh Castillo
+- **Developer:** Josh Castillo (@josuesaulcastillo)
 - **Hobby:** Drumming
 - **Preferred Development Tool:** IntelliJ IDEA
