@@ -1,11 +1,11 @@
 # Project Idea
 
 ## Project Name
-TBD
+Student Task Manager
 
 ## Problem to Solve
 TBD
 
 ## Target User
-TBD
+Overworked CS Students
 
