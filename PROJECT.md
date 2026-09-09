@@ -7,5 +7,5 @@ Student Task Manager
 TBD
 
 ## Target User
-TBD
+Overworked CS Students
 
